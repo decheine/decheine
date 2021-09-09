@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there! 👋
 
 <!--
 **decheine/decheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello there!
+
 
 I am a recent graduate of University of Wisconsin-Madison with a degree in physics, astronomy, and computer science, with a particular interest in high energy physics research. 
 

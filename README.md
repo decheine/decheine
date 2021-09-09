@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is my GitHub readme.
-
 Hello there!
 
 I am a recent graduate of University of Wisconsin-Madison with a degree in physics, astronomy, and computer science, with a particular interest in high energy physics research. 

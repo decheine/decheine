@@ -25,10 +25,9 @@ I am a recent graduate of University of Wisconsin-Madison with a degree in physi
 I am in a constant state of not knowing enough and always learning new things, especially if there is a new way to spend more time automating something than be caught dead doing it by hand. 
 
 
-- 🔭 I’m currently working on: designing new tutorials for C++ tailored for physics students for the IRIS-HEP Fellowship. A side project of mine is extracting data from over 2000 html files on the complete monster index for Advanced Dungeons & Dragons 2nd Edition and putting into a proper database. 
-- 🌱 I’m currently learning: More about C++ that I would like to
-- 👯 I’m looking to collaborate on: Any large HEP experiment, CERN pls hire me 
-- 🤔 I’m looking for help with: Graduate school applications
+- 🔭 I’m currently working on: Graduate school applications. When I'm procrastinating, I'm also working on a side project of mine is extracting data from over 2000 html files on the complete monster index for Advanced Dungeons & Dragons 2nd Edition and putting into a proper database. 
+- 🌱 I’m currently learning: More about C++ than I would like to
+- 👯 I’m looking to collaborate on: Any large HEP experiment, CERN pls hire me
 - 💬 Ask me about dark matter!
 - 📫 How to reach me: Email me about anything!
 - 😄 Pronouns: He/Him

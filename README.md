@@ -1,7 +1,4 @@
 ## Nick Decheine
-Maker of things
-
-### Hello there! 👋
 
 <!--
 **decheine/decheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-I am a recent graduate of University of Wisconsin-Madison with a degree in physics, astronomy, and computer science, with a particular interest in high energy physics experiment research. 
+I am a graduate of University of Wisconsin-Madison with a degree in physics, astronomy, and computer science, with a particular interest in high energy physics experiment research. 
 
 I’m currently working on: My full time job as a research and technology software engineer at Abbott in the interim before graduate school at Illinois Institute of Technology pursuing a PhD in physics doing experimental research work for the next generation neutrino detection experiment, [DUNE](https://www.dunescience.org/). 
 

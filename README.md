@@ -18,18 +18,13 @@ Here are some ideas to get you started:
 
 I am a graduate of University of Wisconsin-Madison with a degree in physics, astronomy, and computer science, with a particular interest in high energy physics experiment research. 
 
-I’m currently working on: My full time job as a research and technology software engineer at Abbott in the interim before graduate school at Illinois Institute of Technology pursuing a PhD in physics doing experimental research work for the next generation neutrino detection experiment, [DUNE](https://www.dunescience.org/). 
+I’m currently working on: Full time software engineer at Abbott.
 
 🐲 **Personal portfolio project**: I'm also working on a side project of mine is extracting data from over 2200 html files on the complete monster index for Advanced Dungeons & Dragons 2nd Edition and putting into a proper database. 
 
 NOW LIVE AT: [CompleteCompendium.com](https://www.completecompendium.com/)
 
-<!-- - ⚡ Fun fact: Not so much a fun fact but a proverb I just came up with: you do not need to reinvent the wheel to get it to work, but the inventors of the wheel were likely unaware of the exact geometric priciples behind _why_ it works. (this being because the sliding frictional surfaces, the bearing and axel, travel a small fraction of the distance that would be traveled by just dragging the load, resulting in a fraction of work done.) The point of this is that in order to truly understand the truth behind mechanisms in our world it takes almost as much effort as reinventing them. -->
-
-
 ### Design
-
-I also have an interest in design. This is a budding design portfolio, but better to put it out there than have no one see it. 
 
 #### Figma
 

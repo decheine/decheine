@@ -1,4 +1,4 @@
-## Nick Decheine
+## Nicholas Decheine
 
 <!--
 **decheine/decheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Bachelor of Science in physics, astronomy, and computer science, with a concentration in high energy physics experimental research. 
+Bachelor of Science from UW-Madison in physics, astronomy, and computer science, with a concentration in high energy physics experimental research. 
 
-I’m currently working on: software engineer at Abbott.
+**Currently working on**: software engineer at Abbott, leading data-driven development to the Human Factors Engineering dept. with feature usage data obtained through log mining - using data to inform user interface enhancement of a very cluttered and complex software system used for intra-cardiac mapping and ablation procedures. 
 
 🐲 **Personal portfolio project**: I'm also working on a side project of mine is extracting data from over 2200 html files on the complete monster index for Advanced Dungeons & Dragons 2nd Edition and putting into a proper "database" - really it's static site generation from a collection of HTML source files that act as a interfacable record, so hosting it is freeee (except for the domain name but that's cheap).  
 

@@ -1,4 +1,4 @@
-## Nicholas Decheine
+
 
 <!--
 **decheine/decheine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Bachelor of Science from UW-Madison in physics, astronomy, and computer science, with a concentration in high energy physics experimental research. 
+Bachelor of Science in physics, astronomy, and computer science, with a concentration in high energy physics experimental research. 
 
 **Currently working on**: software engineer at Abbott, leading data-driven development to the Human Factors Engineering dept. with feature usage data obtained through log mining - using data to inform user interface enhancement of a very cluttered and complex software system used for intra-cardiac mapping and ablation procedures. 
 
